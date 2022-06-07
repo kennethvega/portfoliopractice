@@ -1,3 +1,9 @@
+# Description
+
+This is only a practice file from a youtube tutorial https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=117s
+
+this is a react + scss and sanity course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +13,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
+# Backend instructions
+
+Now you can do the following things:
+
+- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
+- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
+- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
